@@ -9,7 +9,7 @@ from pyrogram.errors import FloodWait
 load_dotenv()
 
 app = Client(
-    name="krishna",
+    name="piyush",
     api_id=int(os.getenv("API_ID")),
     api_hash=os.getenv("API_HASH"),
     session_string=os.getenv("STRING_SESSION")
